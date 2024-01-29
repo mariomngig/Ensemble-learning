@@ -1,4 +1,4 @@
-# Ensemble-learning
+# Movie Recommendation System
 Developed a sophisticated movie recommendation system using ensemble learning with models like Decision Tree, Gradient Boosting, RandomForest, and XGBoost Classifiers.
 
 Key features:
